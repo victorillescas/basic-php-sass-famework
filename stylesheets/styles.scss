@@ -1,0 +1,81 @@
+@import 'modules/_reset';
+@import 'modules/_base';
+@import 'modules/_mixin';
+
+
+//GENERAL
+
+
+//STRUCTURE
+
+//wrapper
+	.wrapper {
+		max-width:1280px;
+		width:95%;
+		margin:0 auto;
+		position:relative;
+	}
+//header
+	.header {
+	
+	}
+//logo
+	.logo {
+	
+	}
+	.logo-img {
+	
+	}
+//nav
+	.nav {
+	
+	}
+//sidebar
+	.sidebar {
+	
+	}
+//footer
+	.footer {
+	
+	}
+
+//PAGES
+
+//IMAGES
+
+//TYPOGRAPHY
+
+
+//RESPONSIVE
+
+
+@media only screen and (min-width:320px) {
+
+}
+@media only screen and (min-width:480px) {
+
+}
+@media only screen and (min-width:768px) {
+
+}
+@media only screen and (min-width:1024px) {
+
+}
+@media only screen and (min-width:1140px) {
+
+}
+@media only screen and (min-width:1280px) {
+
+}
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+	   only screen and (min-resolution:144dpi) {
+
+}
+
+//PRINT
+
+
+@media print {
+
+}
+

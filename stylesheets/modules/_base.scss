@@ -1,0 +1,30 @@
+// definitions
+$color_base: #636c77;
+$color_base_light: #FEFFFF;
+$color_accent: #00b395;
+$color_accent2: #ED2133;
+$color_headsection: #F47928;
+$color_accent_light: #FFC20F;
+$color_formdivider: #C5CFD6;
+$color_formbutton_action: #EF0a38;
+
+$color_nav_text: #1B2B38;
+$color_nav_border_left: #E5F0F7;
+$color_nav_border_right: #9DA5AB;
+
+//fonts
+$font_fam: 'Accord-Regular',Helvetica,Verdana,sans-serif;
+$font_bold: 'Accord-Bold',Helvetica,Verdana,sans-serif;
+$font_h1: $font_bold;
+$font_light: 100;
+$font_regular: 400;
+$font_bold: 600;
+
+//containers
+$width_basis_window: 1400;
+$width_basis: 1100;
+$fwidth_basis: 650;
+$sidebar_leftmargin_basis: 118;
+$sidebarwidth_basis: $width_basis - $fwidth_basis - $sidebar_leftmargin_basis;
+$fontsize_basis: 18;
+
