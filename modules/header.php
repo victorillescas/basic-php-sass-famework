@@ -30,7 +30,6 @@
 		<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-        <script type="text/javascript" src="http://www.sonypictures.com/global/scripts/sp.js"></script>
         <script type="text/javascript" src="<?php echo $mainpath ?>js/source.js"></script>
         
        <?php if ($page == 'index.php') {
